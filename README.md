@@ -19,5 +19,5 @@ Digital Kabiraj aims to provide digital solutions for healthcare management and 
 This project is licensed under the MIT License.
 
 ## Author
-Md Mostafizur Rahaman
-Maruf Hasan
+- Md Mostafizur Rahaman 
+- Maruf Hasan
